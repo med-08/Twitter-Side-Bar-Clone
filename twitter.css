@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+    color: white;
+}
+img {
+    margin-left: 100px;
+}
+a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size:medium;
+    font-family:sans-serif;
+}
+button {
+    height: 35px;
+    width: 150px;
+    margin-left: 100px;
+    background-color: rgb(6, 214, 246);
+    border-radius: 100px;
+    font-weight: bold;
+}
